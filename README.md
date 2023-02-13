@@ -1,3 +1,3 @@
 # Cool-Designs
 
-http://atharvachavan.me/Cool-Designs/
+https://atharvachavan.github.io/Cool-Designs/
